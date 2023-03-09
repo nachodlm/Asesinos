@@ -98,6 +98,7 @@ body {
 #Contacto {
     color: #ffffff;
     font-size: 40px;
+    padding-left: 20px;
 }
 
 #grid4 {display: grid;
@@ -174,6 +175,7 @@ body {
           grid-template-columns: 25% 25% 50%;
           align-items:center;
           font-size: 35px;
+          padding-left: 20px;
           }
   .col3 {padding: 6%;
          }
